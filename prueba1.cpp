@@ -1,6 +1,6 @@
 //Librería de introducción y salidad de datos
 #include <iostream>
-//Con esto se declara el uso de la librería iostram para todas las funciones
+//Con esto se declara el uso de la librería iostream para todas las funciones
 using namespace std;
 
 int suma(int x, int y)
@@ -20,5 +20,5 @@ int main()
 	cout << "Introduce un entero" << endl;
 	//cin obtiene un dato desde el teclado
 	cin >> x;
-	cout << "El valor de X es " << duplica(x) << endl;
+	cout << "El valor de X es " << duplica()x << endl;
 }
