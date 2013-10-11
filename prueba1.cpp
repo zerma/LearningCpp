@@ -20,5 +20,5 @@ int main()
 	cout << "Introduce un entero" << endl;
 	//cin obtiene un dato desde el teclado
 	cin >> x;
-	cout << "El valor de X es " << duplica()x << endl;
+	cout << "El valor de X es " << duplica(x) << endl;
 }
